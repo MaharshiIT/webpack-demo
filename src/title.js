@@ -1,0 +1,1 @@
+export const titleSection = '<h1 class="title">Welcome to Webpack</h1>';
